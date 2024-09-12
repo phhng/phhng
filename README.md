@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phuong but you can call me Atami instead
 - 👀 I’m interested in learning and games
-- 🌱 I’m currently learning C, Java and Python
+- 🌱 I’m currently learning C, Java and Javascript
 
 <!---
 phhng/phhng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
