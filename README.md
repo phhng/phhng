@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Phuong but you can call me Atami instead
+- 👋 Hi, I’m Phuong
 - 👀 I’m interested in learning and games
 - 🌱 I’m currently learning C, Java and Javascript
 
